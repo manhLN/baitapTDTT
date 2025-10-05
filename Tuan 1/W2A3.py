@@ -1,0 +1,8 @@
+a = int(input("nhap so nguyen a ="))
+b = int(input("nhap so nguyen b =")) 
+print("tong =", a+b)
+print("hieu =", a-b)
+print("tich =", a*b)
+print("phan nguyen =", a//b)
+print("phan du =", a&b)
+print("chia thuc =", round(a/b , 2))
